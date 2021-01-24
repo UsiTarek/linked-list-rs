@@ -1,0 +1,5 @@
+[package]
+name = "linked-list"
+version = "0.0.1"
+authors = ["UsiTarek <tarikben8642@gmail.com>"]
+edition = "2018"
